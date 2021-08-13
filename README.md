@@ -13,9 +13,11 @@
 ## Screenshots:
 
 ![alt text](https://github.com/chiragmthakkar/MSA/blob/main/positive.png)
+---
 ![alt text](https://github.com/chiragmthakkar/MSA/blob/main/negative.png)
+---
 ![alt text](https://github.com/chiragmthakkar/MSA/blob/main/neutral.png)
-
+---
 
 
 
