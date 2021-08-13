@@ -12,13 +12,12 @@
 
 ## Screenshots:
 
-![alt text](https://github.com/chiragmthakkar/MSA/blob/main/positive.png)
+![alt text](https://github.com/chiragmthakkar/MSA/blob/main/screenshots/positive.png)
 ---
-![alt text](https://github.com/chiragmthakkar/MSA/blob/main/negative.png)
+![alt text](https://github.com/chiragmthakkar/MSA/blob/main/screenshots/negative.png)
 ---
-![alt text](https://github.com/chiragmthakkar/MSA/blob/main/neutral.png)
+![alt text](https://github.com/chiragmthakkar/MSA/blob/main/screenshots/neutral.png)
 ---
-[![Build Status](https://travis-ci.org/{ORG-or-USERNAME}/{REPO-NAME}.png?branch=master)](https://travis-ci.org/{ORG-or-USERNAME}/{REPO-NAME})
 
 
 
