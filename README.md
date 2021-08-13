@@ -1,6 +1,6 @@
 # Microsoft Student Accelerator (MSA) 2021
 
-**Name:** Chirag M Thakkar
+**Name:** Chirag M Thakkar  
 **Student email:** a1806400@student.adelaide.edu.au
 **University:** University of Adelaide 
 
