@@ -10,6 +10,9 @@
 
 **App link:** https://moodguesserapp.azurewebsites.net
 
+## Requirements
+**requirements.txt** consists of all the libraries along with the version number
+
 ## Screenshots:
 
 ![alt text](https://github.com/chiragmthakkar/MSA/blob/main/screenshots/positive.png)
@@ -18,6 +21,8 @@
 ---
 ![alt text](https://github.com/chiragmthakkar/MSA/blob/main/screenshots/neutral.png)
 ---
+
+_## Note: In case the website is down please email me_
 
 
 
