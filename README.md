@@ -11,7 +11,7 @@
 **App link:** https://moodguesserapp.azurewebsites.net
 
 ## Requirements
-**requirements.txt** consists of all the libraries along with the version number
+**requirements.txt** consists of all the libraries along with the version
 
 ## Screenshots:
 
