@@ -18,6 +18,8 @@
 ---
 ![alt text](https://github.com/chiragmthakkar/MSA/blob/main/neutral.png)
 ---
+[![Build Status](https://travis-ci.org/{ORG-or-USERNAME}/{REPO-NAME}.png?branch=master)](https://travis-ci.org/{ORG-or-USERNAME}/{REPO-NAME})
+
 
 
 
