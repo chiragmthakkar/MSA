@@ -9,7 +9,10 @@ Application name: MoodGuesserApp
 **App link:** https://moodguesserapp.azurewebsites.net
 
 ## Screenshots:
-![alt text](https://github.com/chiragmthakkar/MSA/blob/main/negative.png)
+
+ Markup : 
+ 1. ![alt text](https://github.com/chiragmthakkar/MSA/blob/main/negative.png)
+ 2. ![alt text](https://github.com/chiragmthakkar/MSA/blob/main/negative.png)
 
 
 
