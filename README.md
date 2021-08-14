@@ -28,7 +28,7 @@
 ![alt text](https://github.com/chiragmthakkar/MSA/blob/main/screenshots/neutral.png)
 ---
 
-_**Note:** In case the website is down please mail me - a1806400@student.adelaide.edu.au _
+_**Note:** In case the website is down please mail me: a1806400@student.adelaide.edu.au _
 
 
 
