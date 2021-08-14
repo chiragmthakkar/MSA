@@ -12,7 +12,9 @@
 **App link:** https://moodguesserapp.azurewebsites.net
 
 **Summary**
-![alt text](https://github.com/chiragmthakkar/MSA/blob/main/MSA2021_ChiragThakkar_Summary.pdf)
+![Link to the Summary](https://github.com/chiragmthakkar/MSA/blob/main/MSA2021_ChiragThakkar_Summary.pdf)
+
+
 
 ## Requirements
 **requirements.txt** consists of all the libraries along with the version
