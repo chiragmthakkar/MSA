@@ -12,7 +12,7 @@
 **App link:** https://moodguesserapp.azurewebsites.net
 
 **Summary**
-[Link to the Summary](https://github.com/chiragmthakkar/MSA/blob/main/MSA2021_ChiragThakkar_Summary.pdf)
+[Link to the pdf](https://github.com/chiragmthakkar/MSA/blob/main/MSA2021_ChiragThakkar_Summary.pdf)
 
 
 
