@@ -6,7 +6,8 @@
 
 ## Application name: MoodGuesserApp
 
-**Description:** MoodGuesserApp is developed to predict the users sentiments. It uses the Azure text-analytics services to perform sentimental analysis.
+**Description:** Often at times it is difficult to predict the sentiment of a text. This text can be in the form of a text message/tweet/news/email/etc. What if the system/app predicts the user’s sentiment by analysing the text?  MoodGuesserApp is developed to predict the users sentiments. It uses the Azure text-analytics services to perform sentimental analysis.
+
 
 **App link:** https://moodguesserapp.azurewebsites.net
 
